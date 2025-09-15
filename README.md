@@ -41,12 +41,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 2
+**Total Problems Solved:** 3
 
 ## 📚 Problem Index
 
 | # | Folder | Description | Solution |
 |---:|--------|-------------|----------|
 | 1 | [0053-maximum-subarray](0053-maximum-subarray) | <h2><a href="https://leetcode.com/problems/maximum-subarray">53. Maximum Subarray</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, find the <span data-keyword="subarray-nonempty">subarray</span> with the largest sum, and return <em>its sum</em>.</p> | [0053-maximum-subarray.cpp](0053-maximum-subarray/0053-maximum-subarray.cpp) |
-| 2 | [0319-bulb-switcher](0319-bulb-switcher) | <h2><a href="https://leetcode.com/problems/bulb-switcher">319. Bulb Switcher</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> bulbs that are initially off. You first turn on all the bulbs, then&nbsp;you turn off every second bulb.</p> | - |
+| 2 | [292-nim-game](292-nim-game) | <h2><a href="https://leetcode.com/problems/nim-game">Nim Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are playing the following Nim Game with your friend:</p> | [nim-game.cpp](292-nim-game/nim-game.cpp) |
+| 3 | [0319-bulb-switcher](0319-bulb-switcher) | <h2><a href="https://leetcode.com/problems/bulb-switcher">319. Bulb Switcher</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> bulbs that are initially off. You first turn on all the bulbs, then&nbsp;you turn off every second bulb.</p> | - |
 <!-- AUTO-GEN: END -->
