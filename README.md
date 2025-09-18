@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 9
+**Total Problems Solved:** 10
 
 ## 📚 Problem Index
 
@@ -56,4 +56,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 7 | [292-nim-game](292-nim-game) | <h2><a href="https://leetcode.com/problems/nim-game">Nim Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are playing the following Nim Game with your friend:</p> | [nim-game.cpp](292-nim-game/nim-game.cpp) |
 | 8 | [0319-bulb-switcher](0319-bulb-switcher) | <h2><a href="https://leetcode.com/problems/bulb-switcher">319. Bulb Switcher</a></h2><h3>Medium</h3><hr><p>There are <code>n</code> bulbs that are initially off. You first turn on all the bulbs, then&nbsp;you turn off every second bulb.</p> | - |
 | 9 | [319-bulb-switcher](319-bulb-switcher) | <h2><a href="https://leetcode.com/problems/bulb-switcher">Bulb Switcher</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>There are <code>n</code> bulbs that are initially off. You first turn on all the bulbs, then&nbsp;you turn off every second bulb.</p> | - |
+| 10 | [387-first-unique-character-in-a-string](387-first-unique-character-in-a-string) | <h2><a href="https://leetcode.com/problems/first-unique-character-in-a-string">First Unique Character in a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code>, find the <strong>first</strong> non-repeating character in it and return its index. If it <strong>does not</strong> exist, return <code>-1</code>.</p> | [first-unique-character-in-a-string.cpp](387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 <!-- AUTO-GEN: END -->
