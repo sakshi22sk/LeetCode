@@ -1,9 +1,16 @@
 class Solution {
-    public boolean isPowerOfTwo(int n) {
-        if(n==0) return false;
-        while(n%2==0){
-            n=n/2;
+    public boolean syill(int n,int i){
+        if(Math.pow(2,i)>n){
+            return false;
         }
-        return n==1;
+        if(n==Math.pow(2,i)){
+            return true;
+        }
+        return syill(n,i+1);
+        
+    }
+    public boolean isPowerOfTwo(int n) {
+        int i=0;
+       return syill(n,i);
     }
 }
