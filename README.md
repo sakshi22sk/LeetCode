@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 17
+**Total Problems Solved:** 18
 
 ## 📚 Problem Index
 
@@ -64,4 +64,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 15 | [344-reverse-string](344-reverse-string) | <h2><a href="https://leetcode.com/problems/reverse-string">Reverse String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Write a function that reverses a string. The input string is given as an array of characters <code>s</code>.</p> | [reverse-string.cpp](344-reverse-string/reverse-string.cpp) |
 | 16 | [387-first-unique-character-in-a-string](387-first-unique-character-in-a-string) | <h2><a href="https://leetcode.com/problems/first-unique-character-in-a-string">First Unique Character in a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code>, find the <strong>first</strong> non-repeating character in it and return its index. If it <strong>does not</strong> exist, return <code>-1</code>.</p> | [first-unique-character-in-a-string.cpp](387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 17 | [792-binary-search](792-binary-search) | <h2><a href="https://leetcode.com/problems/binary-search">Binary Search</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index. Otherwise, return <code>-1</code>.</p> | [binary-search.cpp](792-binary-search/binary-search.cpp) |
+| 18 | [1018-largest-perimeter-triangle](1018-largest-perimeter-triangle) | <h2><a href="https://leetcode.com/problems/largest-perimeter-triangle">Largest Perimeter Triangle</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code>, return <em>the largest perimeter of a triangle with a non-zero area, formed from three of these lengths</em>. If it is impossible to form any triangle of a non-zero area, return <code>0</code>.</p> | [largest-perimeter-triangle.cpp](1018-largest-perimeter-triangle/largest-perimeter-triangle.cpp) |
 <!-- AUTO-GEN: END -->
