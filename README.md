@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 18
+**Total Problems Solved:** 19
 
 ## 📚 Problem Index
 
@@ -65,4 +65,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 16 | [387-first-unique-character-in-a-string](387-first-unique-character-in-a-string) | <h2><a href="https://leetcode.com/problems/first-unique-character-in-a-string">First Unique Character in a String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code>, find the <strong>first</strong> non-repeating character in it and return its index. If it <strong>does not</strong> exist, return <code>-1</code>.</p> | [first-unique-character-in-a-string.cpp](387-first-unique-character-in-a-string/first-unique-character-in-a-string.cpp) |
 | 17 | [792-binary-search](792-binary-search) | <h2><a href="https://leetcode.com/problems/binary-search">Binary Search</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index. Otherwise, return <code>-1</code>.</p> | [binary-search.cpp](792-binary-search/binary-search.cpp) |
 | 18 | [1018-largest-perimeter-triangle](1018-largest-perimeter-triangle) | <h2><a href="https://leetcode.com/problems/largest-perimeter-triangle">Largest Perimeter Triangle</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code>, return <em>the largest perimeter of a triangle with a non-zero area, formed from three of these lengths</em>. If it is impossible to form any triangle of a non-zero area, return <code>0</code>.</p> | [largest-perimeter-triangle.cpp](1018-largest-perimeter-triangle/largest-perimeter-triangle.cpp) |
+| 19 | [1111-minimum-score-triangulation-of-polygon](1111-minimum-score-triangulation-of-polygon) | <h2><a href="https://leetcode.com/problems/minimum-score-triangulation-of-polygon">Minimum Score Triangulation of Polygon</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You have a convex <code>n</code>-sided polygon where each vertex has an integer value. You are given an integer array <code>values</code> where <code>values[i]</code> is the value of the <code>i<sup>th</sup></code> vertex in <strong>clockwise order</strong>.</p> | - |
 <!-- AUTO-GEN: END -->
