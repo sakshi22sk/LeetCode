@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 23
+**Total Problems Solved:** 24
 
 ## 📚 Problem Index
 
@@ -70,4 +70,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 21 | [1018-largest-perimeter-triangle](1018-largest-perimeter-triangle) | <h2><a href="https://leetcode.com/problems/largest-perimeter-triangle">Largest Perimeter Triangle</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an integer array <code>nums</code>, return <em>the largest perimeter of a triangle with a non-zero area, formed from three of these lengths</em>. If it is impossible to form any triangle of a non-zero area, return <code>0</code>.</p> | [largest-perimeter-triangle.cpp](1018-largest-perimeter-triangle/largest-perimeter-triangle.cpp) |
 | 22 | [1111-minimum-score-triangulation-of-polygon](1111-minimum-score-triangulation-of-polygon) | <h2><a href="https://leetcode.com/problems/minimum-score-triangulation-of-polygon">Minimum Score Triangulation of Polygon</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You have a convex <code>n</code>-sided polygon where each vertex has an integer value. You are given an integer array <code>values</code> where <code>values[i]</code> is the value of the <code>i<sup>th</sup></code> vertex in <strong>clockwise order</strong>.</p> | - |
 | 23 | [1612-avoid-flood-in-the-city](1612-avoid-flood-in-the-city) | <h2><a href="https://leetcode.com/problems/avoid-flood-in-the-city">Avoid Flood in The City</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>Your country has an infinite number of lakes. Initially, all the lakes are empty, but when it rains over the <code>nth</code> lake, the <code>nth</code> lake becomes full of water. If it rains over a lake that is <strong>full of water</strong>, there will be a <strong>flood</strong>. Your goal is to avoid floods in any lake.</p> | [avoid-flood-in-the-city.cpp](1612-avoid-flood-in-the-city/avoid-flood-in-the-city.cpp) |
+| 24 | [3794-find-the-minimum-amount-of-time-to-brew-potions](3794-find-the-minimum-amount-of-time-to-brew-potions) | <h2><a href="https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions">Find the Minimum Amount of Time to Brew Potions</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given two integer arrays, <code>skill</code> and <code><font face="monospace">mana</font></code>, of length <code>n</code> and <code>m</code>, respectively.</p> | [find-the-minimum-amount-of-time-to-brew-potions.cpp](3794-find-the-minimum-amount-of-time-to-brew-potions/find-the-minimum-amount-of-time-to-brew-potions.cpp) |
 <!-- AUTO-GEN: END -->
