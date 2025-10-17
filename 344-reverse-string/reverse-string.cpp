@@ -1,15 +1,15 @@
 class Solution {
 public:
-    void reverse(vector<char>& s,int si,int n){
-        if(si>n){
-            return;
+    void reverse_recu(vector<char>&s,int st,int e){
+        if(st>e){
+            return ;
         }
-        swap(s[si],s[n]);
-        reverse(s,si+1,n-1);
+        swap(s[st],s[e]);
+        st++;
+        e--;
+        return reverse_recu(s,st,e);
     }
     void reverseString(vector<char>& s) {
-        int si=0;
-        int n=s.size()-1;
-        reverse(s,si,n);
+        reverse_recu(s,0,size(s)-1);
     }
 };
