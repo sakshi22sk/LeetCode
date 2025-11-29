@@ -6,7 +6,7 @@ public:
             sum=sum+nums[i];
         }
         int d=sum%k;
-        
+       
         return d;
     }
 };
