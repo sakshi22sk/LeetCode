@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 43
+**Total Problems Solved:** 44
 
 ## 📚 Problem Index
 
@@ -90,4 +90,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 41 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](3846-minimum-operations-to-make-array-sum-divisible-by-k) | <h2><a href="https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k">Minimum Operations to Make Array Sum Divisible by K</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> and an integer <code>k</code>. You can perform the following operation any number of times:</p> | [minimum-operations-to-make-array-sum-divisible-by-k.cpp](3846-minimum-operations-to-make-array-sum-divisible-by-k/minimum-operations-to-make-array-sum-divisible-by-k.cpp) |
 | 42 | [3886-count-number-of-trapezoids-i](3886-count-number-of-trapezoids-i) | <h2><a href="https://leetcode.com/problems/count-number-of-trapezoids-i">Count Number of Trapezoids I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p data-end="189" data-start="146">You are given a 2D integer array <code>points</code>, where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents the coordinates of the <code>i<sup>th</sup></code> point on the Cartesian plane.</p> | [count-number-of-trapezoids-i.cpp](3886-count-number-of-trapezoids-i/count-number-of-trapezoids-i.cpp) |
 | 43 | [3897-count-number-of-trapezoids-ii](3897-count-number-of-trapezoids-ii) | <h2><a href="https://leetcode.com/problems/count-number-of-trapezoids-ii">Count Number of Trapezoids II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p data-end="189" data-start="146">You are given a 2D integer array <code>points</code> where <code>points[i] = [x<sub>i</sub>, y<sub>i</sub>]</code> represents the coordinates of the <code>i<sup>th</sup></code> point on the Cartesian plane.</p> | [count-number-of-trapezoids-ii.cpp](3897-count-number-of-trapezoids-ii/count-number-of-trapezoids-ii.cpp) |
+| 44 | [3934-coupon-code-validator](3934-coupon-code-validator) | <h2><a href="https://leetcode.com/problems/coupon-code-validator">Coupon Code Validator</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given three arrays of length <code>n</code> that describe the properties of <code>n</code> coupons: <code>code</code>, <code>businessLine</code>, and <code>isActive</code>. The <code>i<sup>th</sup> </code>coupon has:</p> | [coupon-code-validator.cpp](3934-coupon-code-validator/coupon-code-validator.cpp) |
 <!-- AUTO-GEN: END -->
