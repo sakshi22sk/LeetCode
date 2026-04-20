@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        int n=s.size();
+       /* int n=s.size();
         if(s.size()!=goal.size()){
             return false;
         }
@@ -14,6 +14,12 @@ public:
                 return true;
             }
         }
-        return false;
+        return false;*/
+        //OPTIMISED
+        if(s.size()!=goal.size()){
+            return false;
+        }
+        string h=s+s;
+        return h.contains(goal);
     }
 };
