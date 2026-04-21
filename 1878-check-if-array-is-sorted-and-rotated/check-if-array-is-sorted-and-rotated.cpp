@@ -2,19 +2,27 @@ class Solution {
 public:
     bool check(vector<int>& nums) {
         int n = nums.size();
-        int count = 0;
-        
-        // Check if the array is non-decreasing
-        for (int i = 1; i < n; i++)
-            if (nums[i - 1] > nums[i])
-                count++;
-        
-        // Check if the last element is greater than the first element
-        if (nums[n - 1] > nums[0])
-            count++;
-        
-        // If the count of violations is less than or equal to 1, return true
-        return count <= 1;
-    }
+        int k = -1;
 
+        // find break point
+        for(int i = 0; i < n-1; i++){
+            if(nums[i] > nums[i+1]){
+                k = i + 1;  // ✅ correct split point
+                break;
+            }
+        }
+
+        // already sorted
+        if(k == -1) return true;
+
+        vector<int> temp = nums; // ✅ work on copy
+
+        // reverse logic to undo rotation
+        reverse(temp.begin(), temp.end());
+        reverse(temp.begin(), temp.begin() + (n - k));
+        reverse(temp.begin() + (n - k), temp.end());
+
+        // check sorted
+        return is_sorted(temp.begin(), temp.end());
+    }
 };
