@@ -9,18 +9,29 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-       // ListNode* temp=headA;
-       ListNode* temp1;
-        while(headA!=nullptr){
-            temp1=headB;
-            while(temp1!=nullptr){
-                if(headA==temp1){
-                    return headA;
-                }
-             temp1=temp1->next;   
+
+        ListNode* a = headA;
+        ListNode *b = headB;
+
+        while(a!=b){
+
+            if(a!=nullptr){
+                a = a-> next;
             }
-        headA=headA->next;
-    }
-    return nullptr;
+            else{
+                a= headB;
+            }
+
+            if(b!=nullptr){
+                b = b-> next;
+            }
+            else{
+                b = headA;
+            }
+
+        }
+
+        return a;
+        
     }
 };
