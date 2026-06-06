@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- AUTO-GEN: START (do not remove or edit this line) -->
 ## 📊 Problem Count
-**Total Problems Solved:** 101
+**Total Problems Solved:** 102
 
 ## 📚 Problem Index
 
@@ -148,4 +148,5 @@ This project is licensed under the [MIT License](LICENSE).
 | 99 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](3933-minimum-jumps-to-reach-end-via-prime-teleportation) | <h2><a href="https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation">Minimum Jumps to Reach End via Prime Teleportation</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p> | [minimum-jumps-to-reach-end-via-prime-teleportation.cpp](3933-minimum-jumps-to-reach-end-via-prime-teleportation/minimum-jumps-to-reach-end-via-prime-teleportation.cpp) |
 | 100 | [3934-coupon-code-validator](3934-coupon-code-validator) | <h2><a href="https://leetcode.com/problems/coupon-code-validator">Coupon Code Validator</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given three arrays of length <code>n</code> that describe the properties of <code>n</code> coupons: <code>code</code>, <code>businessLine</code>, and <code>isActive</code>. The <code>i<sup>th</sup> </code>coupon has:</p> | [coupon-code-validator.cpp](3934-coupon-code-validator/coupon-code-validator.cpp) |
 | 101 | [3965-earliest-finish-time-for-land-and-water-rides-i](3965-earliest-finish-time-for-land-and-water-rides-i) | <h2><a href="https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i">Earliest Finish Time for Land and Water Rides I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p data-end="143" data-start="53">You are given two categories of theme park attractions: <strong data-end="122" data-start="108">land rides</strong> and <strong data-end="142" data-start="127">water rides</strong>.</p> | [earliest-finish-time-for-land-and-water-rides-i.cpp](3965-earliest-finish-time-for-land-and-water-rides-i/earliest-finish-time-for-land-and-water-rides-i.cpp) |
+| 102 | [4128-total-waviness-of-numbers-in-range-ii](4128-total-waviness-of-numbers-in-range-ii) | <h2><a href="https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii">Total Waviness of Numbers in Range II</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given two integers <code>num1</code> and <code>num2</code> representing an <strong>inclusive</strong> range <code>[num1, num2]</code>.</p> | [total-waviness-of-numbers-in-range-ii.cpp](4128-total-waviness-of-numbers-in-range-ii/total-waviness-of-numbers-in-range-ii.cpp) |
 <!-- AUTO-GEN: END -->
